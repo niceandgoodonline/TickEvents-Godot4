@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://dyh8ss7rmllvn"]
+
+[ext_resource type="Script" uid="uid://w0d13qnm2tpf" path="res://demo/code/TickGenerator.gd" id="1_kqqww"]
+
+[node name="TickGenerator" type="Node2D"]
+script = ExtResource("1_kqqww")

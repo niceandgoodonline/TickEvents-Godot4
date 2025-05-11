@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://q3rd007yhuqo"]
+
+[ext_resource type="Script" uid="uid://dx0s6gexvmxnl" path="res://demo/code/ProcessBased.gd" id="1_0oj1i"]
+
+[node name="Node2D" type="Node2D"]
+script = ExtResource("1_0oj1i")
